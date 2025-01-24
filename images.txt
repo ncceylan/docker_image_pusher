@@ -1,6 +1,6 @@
-nginx
+sliamb/paopaodns
 #支持私库
-xhofe/alist:latest
+#xhofe/alist
 #支持指定架构
---platform=linux/arm64 alpine:latest
---platform=linux/arm64 adguard/adguardhome
+--platform=linux/arm64 alpine
+--platform=linux/arm64 sliamb/paopaodns
