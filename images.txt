@@ -4,3 +4,4 @@ sliamb/paopaodns
 #支持指定架构
 --platform=linux/arm64 alpine
 --platform=linux/arm64 sliamb/paopaodns
+--platform=linux/arm64 ani1ak/singbox-vless-mikrotik
